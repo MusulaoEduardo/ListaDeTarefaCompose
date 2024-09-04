@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">135723526815</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5rbOoVD0ebgodWmofVSIMIPlt9fx-GqA</string>
+    <string name="google_app_id" translatable="false">1:135723526815:android:22016b45fc82dfcfe710aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5rbOoVD0ebgodWmofVSIMIPlt9fx-GqA</string>
+    <string name="google_storage_bucket" translatable="false">lista-de-tarefas-compose-48e5e.appspot.com</string>
+    <string name="project_id" translatable="false">lista-de-tarefas-compose-48e5e</string>
+</resources>
